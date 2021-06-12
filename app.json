@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "story-hub",
+    "slug": "snack-925514b1-2779-40c6-9fa3-e8de6062ad2c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.atharva1809.STORYHUB"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
